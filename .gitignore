@@ -1,0 +1,7 @@
+/.vs
+/Sources/DockPanelSuite/bin
+/Sources/DockPanelSuite/obj
+
+*.suo
+.gitignore.bak
+/Sources/Security/Library CleanArchitecture.csproj.bak
